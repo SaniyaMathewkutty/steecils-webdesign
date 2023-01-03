@@ -1,0 +1,2 @@
+- minify your code with online minifier. 
+- custom.css: modified bootstrap should be created (using a .scss sass and a css preprocessor) and then the .css file is minified (not the scss)
